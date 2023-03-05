@@ -22,7 +22,7 @@
     { "id": 13, "rank": 50, "title": "Rocky 3", "releaseYear": 1982}, 
     { "id": 14, "rank": 15, "title": "Rocky 4", "releaseYear": 1985},
     { "id": 15, "rank": 99, "title": "Rocky 5", "releaseYear": 1989},
-    { "id": 16, "rank": 40, "title": "E.T. the Extra-Terrestrial", "releaseYear": 1977},
+  //  { "id": 16, "rank": 40, "title": "E.T. the Extra-Terrestrial", "releaseYear": 1977},
     { "id": 17, "rank": 51, "title": "Psycho", "releaseYear": 1977},
     { "id": 18, "rank": 52, "title": "The Bridge on the River Kwai", "releaseYear": 1957},
     { "id": 19, "rank": 53, "title": null, "releaseYear": 1964},
